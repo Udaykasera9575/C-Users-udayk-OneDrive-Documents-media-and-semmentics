@@ -1,0 +1,11 @@
+4) list any 3 ways which help us in improving the accessiblity of html.
+ans:-
+ 1.Use descriptive title for links
+
+Using descriptive titles for links will make it easier for those who rely on screen readers to navigate your website to understand the purpose of the link and where they will be redirected.
+2.Use a CMS that supports accessibility:-
+
+When building a website, choose a content management system (CMS) that supports web accessibility. Be sure that page layouts, themes, widgets, plugins, and other aspects are compatible with web accessibility standards such as 
+3.Structure and organize with headers:-
+
+Headers are a great resource that, when used correctly, structure and organize content on a webpage. This allows all users to easily navigate your web pages, and even improve your SEO score making it easier for you to generate more traffic to your site.

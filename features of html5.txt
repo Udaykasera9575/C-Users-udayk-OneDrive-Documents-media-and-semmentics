@@ -1,0 +1,9 @@
+1)list out the features of html5.0
+ans:-1.Semantic Elements.
+2.Audio and Video Support.
+3.Canvas Elements.
+4.Geolocation API.
+5.Local Storage.
+6.Responsive Images.
+7.Web Workers.
+8.Drag and Drop AP.
